@@ -1,1 +1,2 @@
 # ML-summarizer-and-translator
+This contains the working code for a summarizer and translator and question answerer. It is mostly for research papers. On uploading a document the code will give you an option to ask any question, the summarizer part will give you the summary for the paper and in case the paper is any foreign language and you want to convert itto any language you can use the translator part.
