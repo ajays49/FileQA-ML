@@ -15,7 +15,7 @@ reference. Download the notebook and run the same.
 
 ## How to run
 
-You can use either version — they contain the same logic:
+You can use either version, they contain the same logic:
 
 - **Notebook version** (`21BCE6200_AJAY_SRIRAM_ML_PROJECT_CODE.ipynb`) open it in
   [Google Colab](https://colab.research.google.com/) (there's an "Open in Colab" badge at
