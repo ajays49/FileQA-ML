@@ -10,21 +10,21 @@ research papers in mind. Given a document, you can:
 This started as a Google Colab notebook. Since notebooks don't render reliably
 on GitHub, the code has been split into plain, runnable Python scripts that
 work locally, no Colab dependency required. The original notebook
-(`21BCE6200_AJAY_SRIRAM_ML_PROJECT_CODE.ipynb`) is kept in the repo for
+(`AJAY_SRIRAM_FileQA.ipynb`) is kept in the repo for
 reference. Download the notebook and run the same.
 
 ## How to run
 
 You can use either version, they contain the same logic:
 
-- **Notebook version** (`21BCE6200_AJAY_SRIRAM_ML_PROJECT_CODE.ipynb`) open it in
+- **Notebook version** (`AJAY_SRIRAM_FileQA.ipynb`) open it in
   [Google Colab](https://colab.research.google.com/) (there's an "Open in Colab" badge at
   the top of the notebook) or in Jupyter, then run the cells in order. It uses
   `google.colab.files.upload()` for file input, so it's meant for Colab, not a local
   Jupyter install.
 
   ```bash
-  jupyter notebook 21BCE6200_AJAY_SRIRAM_ML_PROJECT_CODE.ipynb
+  jupyter notebook AJAY_SRIRAM_FileQA.ipynb
   ```
 
 - **Python script version** (recommended for local use / GitHub doesn't render the
@@ -54,7 +54,7 @@ FileQA-ML/
 ├── summarize_translate.py  # CLI: summarize + translate a PDF
 ├── question_answer.py      # CLI: ask questions about a document
 ├── requirements.txt
-└── 21BCE6200_AJAY_SRIRAM_ML_PROJECT_CODE.ipynb   # original Colab notebook
+└── AJAY_SRIRAM_FileQA.ipynb   # original Colab notebook
 ```
 
 ## Installation
